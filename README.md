@@ -1,16 +1,44 @@
-## Hi there 👋
+# Halo! 👋 call me icham
 
-<!--
-**icham11/icham11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Opsi A: Hotlink langsung ke image URL dari rendergitanimals -->
+  <!-- Ganti URL di bawah dengan URL image / GIF / SVG yang kamu dapat dari rendergitanimals -->
+ 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=icham11&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/icham11?pet-id=815404688414949909"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Opsi B: Kalau kamu menyimpan file 'penguin.gif' di root repo, gunakan baris ini sebagai alternatif -->
+  <!-- <img src="./penguin.gif" width="220" alt="Animated Penguin (local file)" /> -->
+</p>
+
+
+---
+
+## Tech Stack
+Berikut stack teknologi yang sering saya gunakan (badge memakai Shields.io):
+
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="GROQ" src="https://img.shields.io/badge/GROQ-101010?style=for-the-badge" />
+  <img alt="Gemini Embedding" src="https://img.shields.io/badge/Gemini_Embedding-7C3AED?style=for-the-badge" />
+</p>
+
+Tech stack (text list):
+- Frontend: JavaScript, TypeScript, React.js, Next.js
+- Backend: Express
+- Databases: MongoDB, PostgreSQL
+- Query / Content: GROQ
+- Embeddings / AI: Gemini Embedding
