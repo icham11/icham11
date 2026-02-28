@@ -1,5 +1,7 @@
-# Halo! 👋 call me icham
-
+ 
+<h1 align="center">
+Halo! 👋 call me icham
+</h1>
 
 <p align="center">
   <!-- Opsi A: Hotlink langsung ke image URL dari rendergitanimals -->
