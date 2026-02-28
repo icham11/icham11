@@ -3,10 +3,7 @@
 Howdy! 👋 call me icham
 </h1>
 
-<p align="center">
-  <!-- Opsi A: Hotlink langsung ke image URL dari rendergitanimals -->
-  <!-- Ganti URL di bawah dengan URL image / GIF / SVG yang kamu dapat dari rendergitanimals -->
- 
+<p align="center"> 
 <a href="https://ichamreadyto.dev/">
   <img
     src="https://render.gitanimals.org/lines/icham11?pet-id=815404688414949909"
@@ -14,11 +11,14 @@ Howdy! 👋 call me icham
     height="120"
   />
 </a>
-  
-
-  <!-- Opsi B: Kalau kamu menyimpan file 'penguin.gif' di root repo, gunakan baris ini sebagai alternatif -->
-  <!-- <img src="./penguin.gif" width="220" alt="Animated Penguin (local file)" /> -->
 </p>
+
+
+
+
+
+
+
 
 <p align="center">
   <img src=https://gh-trophy.cdnsoft.net/?username=icham11&theme=tokyonight />
