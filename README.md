@@ -21,7 +21,7 @@ Howdy! 👋 call me icham
 </p>
 
 <p align="center">
-  <img src=https://github-profile-trophy.vercel.app/?username=deaafrizal&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies](https://gh-trophy.cdnsoft.net/?username=icham11&theme=tokyonight) />
+  <img src=https://gh-trophy.cdnsoft.net/?username=icham11&theme=tokyonight />
 </p>
 ---
 
