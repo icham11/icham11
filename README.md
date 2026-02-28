@@ -7,7 +7,7 @@ Howdy! 👋 call me icham
   <!-- Opsi A: Hotlink langsung ke image URL dari rendergitanimals -->
   <!-- Ganti URL di bawah dengan URL image / GIF / SVG yang kamu dapat dari rendergitanimals -->
  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=icham11&utm_content=line">
+<a href="[https://www.gitanimals.org/en_US?utm_medium=image&utm_source=icham11&utm_content=line](https://ichamreadyto.dev/)">
   <img
     src="https://render.gitanimals.org/lines/icham11?pet-id=815404688414949909"
     width="600"
@@ -20,7 +20,9 @@ Howdy! 👋 call me icham
   <!-- <img src="./penguin.gif" width="220" alt="Animated Penguin (local file)" /> -->
 </p>
 
-
+<p align="center">
+  <img src=https://github-profile-trophy.vercel.app/?username=deaafrizal&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies](https://gh-trophy.cdnsoft.net/?username=icham11&theme=tokyonight) />
+</p>
 ---
 
 
