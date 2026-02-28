@@ -1,6 +1,6 @@
  
 <h1 align="center">
-Halo! 👋 call me icham
+Howdy! 👋 call me icham
 </h1>
 
 <p align="center">
