@@ -23,8 +23,6 @@ Halo! 👋 call me icham
 
 ---
 
-## Tech Stack
-Berikut stack teknologi yang sering saya gunakan (badge memakai Shields.io):
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,9 +36,4 @@ Berikut stack teknologi yang sering saya gunakan (badge memakai Shields.io):
   <img alt="Gemini Embedding" src="https://img.shields.io/badge/Gemini_Embedding-7C3AED?style=for-the-badge" />
 </p>
 
-Tech stack (text list):
-- Frontend: JavaScript, TypeScript, React.js, Next.js
-- Backend: Express
-- Databases: MongoDB, PostgreSQL
-- Query / Content: GROQ
-- Embeddings / AI: Gemini Embedding
+
